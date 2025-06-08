@@ -6,4 +6,4 @@ seaborn==0.13.2
 Pillow==10.3.0
 scikit-learn==1.4.2
 catboost==1.2.5
-tensorflow==2.15.0
+tensorflow==2.19.0
